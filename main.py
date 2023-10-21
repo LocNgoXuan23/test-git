@@ -1,6 +1,11 @@
 print(123)
 
-qwdqwdqwd
-# how can i learn el
 
-123123123123123123123
+# how can i learn el
+# cach chung ta yeu cau nguoi ta hoc 1 cais
+# cach de lam 1 cai gi do
+
+
+qwdqwdqwd
+
+Ngo xuna loc
